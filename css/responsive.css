@@ -75,6 +75,9 @@
     }
 }
 @media (max-width: 767px){
+    .banner-section {
+        padding: 106px 0px 38px;
+    }
     .ecommerce {
         padding: 50px 0px;
     }
@@ -146,6 +149,9 @@
     }
 }
 @media (max-width: 575px){
+    .banner-section {
+        padding: 106px 0px 38px;
+    }
     .banner-inner h2 {
         font-size: 50px;
     }
@@ -216,6 +222,9 @@
     
 }
 @media (max-width: 480px){
+    .banner-section {
+        padding: 106px 0px 38px;
+    }
     .banner-inner h2 {
         font-size: 32px;
         line-height: 42px;
