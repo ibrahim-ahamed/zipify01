@@ -28,6 +28,12 @@
     .about-inner p {
         margin-top: 15px;
     }
+    /* ===========contact========== */
+    .contact_text {
+        position: absolute;
+        top: 20%;
+        right: 6%;
+    }
 }
 @media (max-width: 991px){
     .banner-section {
@@ -75,6 +81,16 @@
     /* ===========about========== */
     .about-img img {
         height: 500px;
+    }
+    /* ===========contact========== */
+    .contact_text {
+        position: absolute;
+        top: 20%;
+        right: 6%;
+    }
+    .contact_text p {
+        max-width: 310px;
+        margin: 20px 0 0;
     }
 }
 @media (max-width: 767px){
@@ -155,6 +171,17 @@
     .blog-content p {
         font-size: 18px;
     }
+    .contact_text {
+        width: 100%;
+        position: initial;
+        justify-content: center;
+        margin: 0 auto;
+        padding: 0 101px;
+    }
+    .contact_text p {
+        max-width: 310px;
+        margin: 20px 0 0;
+    }
 }
 @media (max-width: 575px){
     .banner-section {
@@ -230,6 +257,15 @@
     /* ==========blog========== */
     .blog-section .btn-custo {
         font-size: 14px;
+    }
+    .contact_text {
+        width: 100%;
+        position: initial;
+        padding: 0 61px;
+    }
+    .contact_text p {
+        max-width: 310px;
+        margin: 20px 0 0;
     }
     
 }
@@ -336,6 +372,9 @@
         margin-bottom: 10px;
         font-size: 14px;
         margin-right: 10px;
+    }
+    .contact_text {
+        padding: 0 11px;
     }
     
 }

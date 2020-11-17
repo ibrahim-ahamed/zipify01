@@ -402,10 +402,10 @@ footer .brdr{
 }
 /* ==========blog========== */
 .blog-section{
-    padding: 130px 0px 60px;
+    padding: 75px 0px 60px;
 }
 .filter{
-    margin-bottom: 20px;
+    margin:20px 0px;
 }
 .item{
     margin-bottom: 30px;
