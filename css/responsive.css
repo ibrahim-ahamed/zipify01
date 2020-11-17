@@ -92,6 +92,9 @@
         max-width: 310px;
         margin: 20px 0 0;
     }
+    .navbar-nav .nav-item:hover .nav-link:after{
+        opacity: 0;
+    }
 }
 @media (max-width: 767px){
     .banner-section {
