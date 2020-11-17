@@ -28,7 +28,7 @@
 }
 @media (max-width: 991px){
     .banner-section {
-        padding: 12px 0px 38px;
+        padding: 50px 0px 38px;
     }
     .banner-section .img-fluid {
         width: 100%;
@@ -301,7 +301,7 @@
         font-size: 21px;
     }
     .about-inner h2 {
-        font-size: 16px;
+        font-size: 22px;
     }
     .about-img img {
         height: 399px;
