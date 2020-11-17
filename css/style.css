@@ -400,3 +400,55 @@ footer .brdr{
 .contact2_section .contact_inner {
     margin-top: 60px;
 }
+/* ==========blog========== */
+.blog-section{
+    padding: 130px 0px 60px;
+}
+.filter{
+    margin-bottom: 20px;
+}
+.item{
+    margin-bottom: 30px;
+    transition: .5s;
+}
+.item:hover{
+    transform: scaleX(1.1);
+}
+.item img{}
+.brdr{
+    width: 100%;
+    height: 10px;
+    background: #fdd835;
+}
+.blog-content{
+    background-color: #ededed;
+    padding: 30px;
+}
+.blog-content p{
+    color: #17383f;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.blog-section .btn-custo{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #fff;
+    background-color: #4CAF50;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    transition: .5s;
+    border-radius: 0px;
+}
+.blog-section .btn-custo.active{
+    color: #4CAF50;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+}
+.blog-section .btn-custo:focus, .blog-section .btn-custo:hover{
+    color: #4CAF50;
+    background-color: #fff;
+    border: 1px solid #4CAF50;
+    box-shadow: none;
+}
