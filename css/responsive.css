@@ -1,0 +1,313 @@
+@media (max-width: 1399px){
+
+}
+@media (max-width: 1199px){
+    .banner-inner h2 {
+        font-size: 50px;
+    }
+    .banner-inner ul li {
+        font-size: 18px;
+    }
+    .porduct-inner p {
+        font-size: 17px;
+    }
+    /* ===========products========== */
+    .products1-inner h2 {
+        font-size: 40px;
+    }
+    .products1-inner p {
+        font-size: 16px;
+    }
+    .porducts-2 .img-fluid {
+        height: 50px;
+    }
+    /* ===========about========== */
+    .about-img img {
+        height: 568px;
+    }
+}
+@media (max-width: 991px){
+    .banner-section {
+        padding: 12px 0px 38px;
+    }
+    .banner-section .img-fluid {
+        width: 100%;
+        height: auto;
+    }
+    .banner-inner{
+        padding-top: 50px;
+    }
+    .product-img img{
+        height: 40px;
+    }
+    .porduct-inner p {
+        font-size: 15px;
+    }
+    .footer-inner h4 {
+        font-size: 23px;
+    }
+    .footer-inner ul li {
+        font-size: 14px;
+        padding: 3px 0px;
+    }
+    .footer-inner ul li a {
+        font-size: 14px;
+    }
+    footer .text-right {
+        text-align: center !important;
+    }
+    .main-footer {
+        padding-top: 25px;
+    }
+    /* ===========products========== */
+    .products1-inner h2 {
+        font-size: 29px;
+    }
+    .products1-inner p {
+        font-size: 15px;
+    }
+    .porduct-2-inner p {
+        font-size: 16px;
+    }
+    /* ===========about========== */
+    .about-img img {
+        height: 500px;
+    }
+}
+@media (max-width: 767px){
+    .ecommerce {
+        padding: 50px 0px;
+    }
+    .ecommerce p {
+        font-size: 14px;
+    }
+    .porducts {
+        padding: 50px 0px;
+    }
+    .porduct-inner {
+        padding-left: 0px;
+        padding-bottom: 25px;
+    }
+    .footer-inner h4 {
+        font-size: 25px;
+    }
+    .footer-inner ul li a {
+        font-size: 16px;
+    }
+    .footer-inner ul li {
+        font-size: 16px;
+        padding: 7px 0px;
+    }
+    /* ===========products========== */
+    .products1-section{
+        padding: 50px 0px;
+    }
+    .products1-inner {
+        padding-top: 40px;
+    }
+    .products1-img {
+        text-align: center;
+    }
+    .products1-inner h2 {
+        font-size: 40px;
+    }
+    .products1-inner p {
+        font-size: 16px;
+    }
+    .porducts-2 {
+        padding: 50px 0px;
+    }
+    .porduct-2-inner p {
+        font-size: 18px;
+    }
+    .porduct-2-inner {
+        padding-left: 20px;
+        margin-top: 33px;
+        padding-bottom: 35px;
+    }
+    /* ===========about========== */
+    .about-section .text-right{
+        text-align: center !important;
+    }
+    .about-inner{
+        margin-bottom: 30px;
+    }
+    .about-2-section {
+        padding: 0px 0 0px;
+    }
+    .form-control {
+        margin: 0 auto;
+    }
+    .btn-primary {
+        margin: 0 auto;
+    }
+    .contact_section h1 {
+        font-size: 26px;
+    }
+}
+@media (max-width: 575px){
+    .banner-inner h2 {
+        font-size: 50px;
+    }
+    .ecommerce .btn-info {
+        font-size: 14px;
+    }
+    .porducts .btn-info {
+        font-size: 15px;
+    }
+    .porduct-inner p {
+        font-size: 14px;
+    }
+    .footer-inner h4 {
+        font-size: 22px;
+    }
+    .footer-inner ul li a {
+        font-size: 13px;
+    }
+    .footer-inner ul li {
+        font-size: 14px;
+    }
+    .main-footer p {
+        font-size: 14px;
+    }
+    /* ===========products========== */
+    .products1-section{
+        padding: 50px 0px;
+    }
+    .products1-inner {
+        padding-top: 40px;
+    }
+    .products1-img {
+        text-align: center;
+    }
+    .products1-inner h2 {
+        font-size: 37px;
+    }
+    .products1-inner p {
+        font-size: 15px;
+    }
+    .porducts-2 {
+        padding: 50px 0px;
+    }
+    .porduct-2-inner p {
+        font-size: 18px;
+    }
+    .porduct-2-inner {
+        padding-left: 20px;
+        margin-top: 33px;
+        padding-bottom: 35px;
+    }
+    /* ===========about========== */
+    .about-section .text-right{
+        text-align: center !important;
+    }
+    .about-inner{
+        margin-bottom: 30px;
+    }
+    .about-2-section {
+        padding: 0px 0 0px;
+    }
+    .form-control {
+        margin: 0 auto;
+    }
+    .btn-primary {
+        margin: 0 auto;
+    }
+    
+}
+@media (max-width: 480px){
+    .banner-inner h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .banner-inner ul li {
+        font-size: 11px;
+        line-height: 21px;
+    }
+    .btn-custom {
+        font-size: 14px;
+        padding: 14px 75px;
+    }
+    .ecommerce h2 {
+        font-size: 24px;
+    }
+    .ecommerce p {
+        font-size: 13px;
+    }
+    .ecommerce .btn-info {
+        font-size: 12px;
+    }
+    .porducts .btn-info {
+        font-size: 13px;
+    }
+    .porduct-inner p {
+        font-size: 13px;
+    }
+    .footer-inner h4 {
+        font-size: 20px;
+    }
+    .footer-inner ul li a {
+        font-size: 13px;
+    }
+    .footer-inner ul li {
+        font-size: 13px;
+    }
+    .main-footer p {
+        font-size: 13px;
+    }
+    .main-footer ul li a {
+        margin-right: 11px;
+        font-size: 16px;
+    }
+    /* ===========products========== */
+    .products1-section{
+        padding: 50px 0px;
+    }
+    .products1-inner {
+        padding-top: 40px;
+    }
+    .products1-img {
+        text-align: center;
+    }
+    .products1-inner h2 {
+        font-size: 23px;
+    }
+    .products1-inner p {
+        font-size: 14px;
+    }
+    .porducts-2 {
+        padding: 50px 0px;
+    }
+    .porduct-2-inner p {
+        font-size: 14px;
+    }
+    .porducts-2 .btn-info {
+        font-size: 14px;
+    }
+    .porduct-2-inner {
+        padding-left: 20px;
+        margin-top: 33px;
+        padding-bottom: 35px;
+    }
+    /* ===========about========== */
+    .contact_section h1 {
+        font-size: 20px;
+    }
+    .about-inner p {
+        font-size: 14px;
+        margin-top: 24px;
+    }
+    .contact_section h3 {
+        font-size: 21px;
+    }
+    .about-inner h2 {
+        font-size: 16px;
+    }
+    .about-img img {
+        height: 399px;
+    }
+    .form-control {
+        padding: 14px 9px;
+        width: 100%;
+    }
+}
